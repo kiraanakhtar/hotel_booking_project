@@ -66,6 +66,3 @@ The goal of this project is to perform exploratory data analysis (EDA) on hotel 
 - **Hotel Managers and Executives**: Stakeholders interested in understanding booking patterns and customer preferences to inform business strategies.
 - **Students and Educators**: Individuals studying data analysis or statistics who want to explore practical applications in the hospitality industry.
 
----
-
-Feel free to customize any parts of this post to better match your style or preferences!
